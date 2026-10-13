@@ -1,0 +1,15 @@
+package Lab_07;
+
+public class Lab_07_12to0PartB {
+
+    public static void main (String[] args) {
+
+        for(int count = 12; count>= 0; count = count - 2)
+        {
+            for (int end = 0; end < 1; end++);
+            {
+                System.out.println(count);
+            }
+        }
+    }
+}
