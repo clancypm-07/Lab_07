@@ -1,0 +1,19 @@
+package Lab_07;
+
+public class Lab_07_0to24 {
+
+    public static void main(String[] args) {
+
+        //Loop 1
+
+        int count = 0;
+
+        while (count <= 24)
+        {
+            System.out.println(count);
+            count = count + 3;
+        }
+
+    }
+}
+
